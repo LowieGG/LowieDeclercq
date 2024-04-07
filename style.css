@@ -1,0 +1,47 @@
+body {
+    background-image: url(achtergrond.jpg);
+    background-position: -10px;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+header {
+    background-color: rgb(60, 91, 91);
+    margin: 2%;
+    display: flex;
+    border-radius: 10%;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    background-color: aquamarine;
+
+}
+nav ul li{
+    margin: 10px;
+}
+
+footer {
+    background-color: gray;
+    opacity: 70%;
+    color: black;
+    margin-top: 15%;
+ 
+}
+
+section.profiel {
+    display: flex;
+}
+
+section.profiel p {
+    margin-left: 10%;
+    
+    
+}
+
+section.profiel img {
+    margin-left: 5%;
+    border-radius: 10%;
+}
